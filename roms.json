@@ -1,0 +1,76 @@
+{
+  "SEGAMD": [
+    {
+      "file": "roms/segaMD/Sonic & Knuckles (World).gen",
+      "cover": "",
+      "core": "segaMD"
+    },
+    {
+      "file": "roms/segaMD/Earthworm Jim 2 (Europe).gen",
+      "cover": "",
+      "core": "segaMD"
+    },
+    {
+      "file": "roms/segaMD/Sonic The Hedgehog 3 (USA).gen",
+      "cover": "",
+      "core": "segaMD"
+    },
+    {
+      "file": "roms/segaMD/Earthworm Jim (USA).gen",
+      "cover": "",
+      "core": "segaMD"
+    },
+    {
+      "file": "roms/segaMD/Sonic The Hedgehog (USA, Europe).md",
+      "cover": "",
+      "core": "segaMD"
+    },
+    {
+      "file": "roms/segaMD/Sonic The Hedgehog (USA, Europe).gen",
+      "cover": "",
+      "core": "segaMD"
+    },
+    {
+      "file": "roms/segaMD/Tiny Toon Adventures - Buster's Hidden Treasure (USA).gen",
+      "cover": "",
+      "core": "segaMD"
+    },
+    {
+      "file": "roms/segaMD/Aladdin (USA).gen",
+      "cover": "",
+      "core": "segaMD"
+    },
+    {
+      "file": "roms/segaMD/Sonic The Hedgehog 2 (World).gen",
+      "cover": "",
+      "core": "segaMD"
+    }
+  ],
+  "NES": [
+    {
+      "file": "roms/nes/Dr. Mario (Europe).nes",
+      "cover": "",
+      "core": "nes"
+    },
+    {
+      "file": "roms/nes/Contra (World) (Konami Collector's Series) (Unl).nes",
+      "cover": "",
+      "core": "nes"
+    },
+    {
+      "file": "roms/nes/Super Mario Bros. (World).nes",
+      "cover": "",
+      "core": "nes"
+    },
+    {
+      "file": "roms/nes/Battle City (J) [T+Rus1.2 PSCD (07.04.2017)].nes",
+      "cover": "",
+      "core": "nes"
+    },
+    {
+      "file": "roms/nes/Chip 'n Dale - Rescue Rangers (USA).nes",
+      "cover": "",
+      "core": "nes"
+    }
+  ]
+}
